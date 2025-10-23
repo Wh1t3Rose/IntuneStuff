@@ -1,3 +1,38 @@
+<#
+.SYNOPSIS
+    Hardens and remediates the Lenovo TPQM folder by killing related processes,
+    removing old files, and reapplying secure permissions.
+
+.DESCRIPTION
+    This script is designed to remove, rebuild, and harden the Lenovo TPQM folder
+    (C:\Program Files (x86)\Lenovo\TPQM). It stops related processes and services,
+    attempts uninstallation if applicable, deletes and recreates the folder,
+    and applies restrictive ACLs to prevent SYSTEM from writing to it.
+    
+    Intended to run under SYSTEM context (e.g., via Intune remediation or scheduled task).
+    All activity is logged to C:\ProgramData\IntuneLogs\TPQM_Remediation.log.
+
+.PARAMETER None
+    The script takes no parameters.
+
+.NOTES
+    Author: Tyler Cox
+    Version: 1.0
+    Date: October 20, 2025
+
+.CHANGELOG
+    v1.0 (2025-10-23)
+        - Initial release
+        - Added process and service termination for TPQM components
+        - Implemented uninstall attempt via Win32_Product
+        - Folder removal and recreation logic with fallback using takeown/icacls
+        - Hardened ACLs (deny SYSTEM write, restrict inheritance)
+        - Logging to C:\ProgramData\IntuneLogs\TPQM_Remediation.log
+        - Added optional read-only visual flag on folder
+#>
+
+# --- Script Start ---
+
 # Remediate.ps1 - Harden TPQM folder: kill process, remove, recreate, deny SYSTEM write
 # Intended to run as SYSTEM (e.g., Intune remediation context)
 
@@ -26,7 +61,6 @@ Write-Output "=== TPQM Hardening Script Started: $(Get-Date) ==="
 # 1) Kill TPQM-related processes
 foreach ($proc in $processNames) {
     try {
-        # Kill normally if running
         $found = Get-Process -Name $proc -ErrorAction SilentlyContinue
         if ($found) {
             $found | ForEach-Object {
@@ -37,7 +71,6 @@ foreach ($proc in $processNames) {
             Write-Output "No process named $proc found."
         }
 
-        # Explicitly ensure TPQMAssistant is killed
         if ($proc -eq "TPQMAssistant") {
             Write-Output "Ensuring TPQMAssistant is terminated..."
             Stop-Process -Name "TPQMAssistant" -Force -ErrorAction SilentlyContinue
@@ -88,7 +121,6 @@ Start-Sleep -Milliseconds 300
 if (Test-Path $folderPath) {
     try {
         Write-Output "Removing folder: $folderPath (removing read-only attributes first)"
-        # Clear read-only attributes on all contained files
         Get-ChildItem -Path $folderPath -Recurse -Force -ErrorAction SilentlyContinue |
             ForEach-Object {
                 try {
@@ -98,13 +130,11 @@ if (Test-Path $folderPath) {
                 } catch {}
             }
 
-        # Attempt normal removal
         Remove-Item -Path $folderPath -Recurse -Force -ErrorAction SilentlyContinue
         Start-Sleep -Milliseconds 400
 
         if (Test-Path $folderPath) {
             Write-Output "Folder still exists after initial Remove-Item. Attempting takeown & icacls fallback."
-            # Take ownership and grant admins full then remove
             try {
                 takeown.exe /f $folderPath /r /d y 2>$null | Out-Null
                 icacls.exe $folderPath /grant "Administrators:(OI)(CI)F" /t 2>$null | Out-Null
@@ -137,7 +167,7 @@ try {
     Write-Output "Failed to create folder: $_"
 }
 
-# 6) Harden ACLs: remove inheritance, set Admin = Full, Users = RX, then DENY SYSTEM write
+# 6) Harden ACLs
 try {
     Write-Output "Removing inherited permissions..."
     icacls.exe $folderPath /inheritance:r | Out-Null
@@ -146,11 +176,8 @@ try {
     icacls.exe $folderPath /grant "Administrators:(OI)(CI)F" "Users:(OI)(CI)RX" | Out-Null
 
     Write-Output "Applying DENY write for SYSTEM (prevents SYSTEM writing to this folder)"
-    # Deny write (W) and modify (M) for SYSTEM to be safer — adjust as required.
-    # /deny prepends a deny ACE.
     icacls.exe $folderPath /deny "SYSTEM:(OI)(CI)W" | Out-Null
 
-    # Verify and display current ACL
     $aclOut = icacls.exe $folderPath
     Write-Output "Current ACL for ${folderPath}:`n$aclOut"
 } catch {
@@ -168,10 +195,6 @@ try {
 Write-Output "=== TPQM Hardening Script Completed: $(Get-Date) ==="
 
 # ------------- Revert commands (if you need to undo) ----------------
-# To revert the DENY write for SYSTEM, run (as admin):
 # icacls "C:\Program Files (x86)\Lenovo\TPQM" /remove:d "SYSTEM"
-# Then you can re-grant SYSTEM or restore inheritance:
 # icacls "C:\Program Files (x86)\Lenovo\TPQM" /grant "SYSTEM:(OI)(CI)F"
-# icacls "C:\Program Files (x86)\Lenovo\TPQM" /setintegritylevel (if needed)
-# To restore inheritance:
 # icacls "C:\Program Files (x86)\Lenovo\TPQM" /inheritance:e
