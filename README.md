@@ -1,1 +1,3 @@
-# IntuneStuff
+**Overview**
+- **Upload-IntunePackages.ps1**: Scans an upload folder for .intunewin packages, builds Intune helper objects (detection/requirement/icon/return-codes) as available, uploads each app to Intune, prompts for per-app options (icons, assignments, return codes) and can save/reuse answers.  
+- **Create-IntunePackages.ps1**: Packages installers and metadata into .intunewin files (prepares Win32 app packages) for consumption by the uploader.
