@@ -1,0 +1,1347 @@
+﻿
+--- Run at 01/31/2026 16:50:21 ---
+
+[2026-01-31 16:50:22] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-01-31 16:50:22] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:50:22] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe -DeploymentType Install -DeployMode Silent
+[2026-01-31 16:50:22] [INFO] Summary: Processed=12 Success=0 Failed=12
+[2026-01-31 16:50:22] [INFO] Detailed results:
+[2026-01-31 16:50:22] [INFO] DBeaver | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] DWGSee | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] Git for Windows | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] Jetbrains Ultimate | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] MobaXterm | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] Postman | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] Putty | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] SQL Developer | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] SQL WorkBench | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] SQLSearch | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] WinMerge | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:50:22] [INFO] WinSCP | Exe: True | ExitCode:  | Note: True
+
+--- Run at 01/31/2026 16:51:07 ---
+
+[2026-01-31 16:51:08] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-01-31 16:51:08] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:51:08] [INFO] Starting install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-01-31 16:51:28] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260131_165108.log)
+[2026-01-31 16:51:28] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-01-31 16:51:28] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:51:28] [INFO] Starting install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-01-31 16:51:35] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260131_165128.log)
+[2026-01-31 16:51:35] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-01-31 16:51:35] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:51:35] [INFO] Starting install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-01-31 16:52:18] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260131_165135.log)
+[2026-01-31 16:52:18] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Files)
+[2026-01-31 16:52:18] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:52:18] [INFO] Starting install for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate
+[2026-01-31 16:53:30] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\InstallOutput_20260131_165218.log)
+[2026-01-31 16:53:30] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-01-31 16:53:30] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:53:30] [INFO] Starting install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-01-31 16:53:43] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260131_165330.log)
+[2026-01-31 16:53:43] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-01-31 16:53:43] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:53:43] [INFO] Starting install for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-01-31 16:53:50] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260131_165343.log)
+[2026-01-31 16:53:50] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-01-31 16:53:50] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:53:50] [INFO] Starting install for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-01-31 16:53:52] [INFO] Completed: Putty ExitCode=60008 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260131_165350.log)
+[2026-01-31 16:53:52] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-01-31 16:53:52] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:53:52] [INFO] Starting install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-01-31 16:54:49] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260131_165352.log)
+[2026-01-31 16:54:49] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-01-31 16:54:49] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:54:49] [INFO] Starting install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-01-31 16:55:00] [INFO] Completed: SQL WorkBench ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260131_165449.log)
+[2026-01-31 16:55:00] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-01-31 16:55:00] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:55:00] [INFO] Starting install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-01-31 16:55:44] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260131_165500.log)
+[2026-01-31 16:55:44] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-01-31 16:55:44] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:55:44] [INFO] Starting install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-01-31 16:55:58] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260131_165544.log)
+[2026-01-31 16:55:58] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-01-31 16:55:58] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:55:58] [INFO] Starting install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-01-31 16:56:13] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260131_165558.log)
+[2026-01-31 16:56:13] [INFO] Summary: Processed=12 Success=10 Failed=2
+[2026-01-31 16:56:13] [INFO] Detailed results:
+[2026-01-31 16:56:13] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] Putty | Exe: True | ExitCode: 60008 | Note: True
+[2026-01-31 16:56:13] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] SQL WorkBench | Exe: True | ExitCode: 60001 | Note: True
+[2026-01-31 16:56:13] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 16:56:13] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 01/31/2026 16:58:05 ---
+
+[2026-01-31 16:58:06] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-01-31 16:58:06] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:06] [INFO] Dry-run: would run: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe -DeploymentType Uninstall -DeployMode Silent
+[2026-01-31 16:58:06] [INFO] Summary: Processed=12 Success=0 Failed=12
+[2026-01-31 16:58:06] [INFO] Detailed results:
+[2026-01-31 16:58:06] [INFO] DBeaver | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] DWGSee | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] Git for Windows | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] Jetbrains Ultimate | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] MobaXterm | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] Postman | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] Putty | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] SQL Developer | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] SQL WorkBench | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] SQLSearch | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] WinMerge | Exe: True | ExitCode:  | Note: True
+[2026-01-31 16:58:06] [INFO] WinSCP | Exe: True | ExitCode:  | Note: True
+
+--- Run at 01/31/2026 16:58:15 ---
+
+[2026-01-31 16:58:15] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-01-31 16:58:15] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:15] [INFO] Starting Uninstall for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-01-31 16:58:22] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260131_165815.log)
+[2026-01-31 16:58:22] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-01-31 16:58:22] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:22] [INFO] Starting Uninstall for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-01-31 16:58:29] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260131_165822.log)
+[2026-01-31 16:58:29] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-01-31 16:58:29] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:29] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-01-31 16:58:35] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260131_165829.log)
+[2026-01-31 16:58:35] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Files)
+[2026-01-31 16:58:35] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:35] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate
+[2026-01-31 16:58:41] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\JetBrains\Jetbrains Ultimate\InstallOutput_20260131_165835.log)
+[2026-01-31 16:58:41] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-01-31 16:58:42] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:42] [INFO] Starting Uninstall for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-01-31 16:58:54] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260131_165842.log)
+[2026-01-31 16:58:54] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-01-31 16:58:54] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:58:54] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-01-31 16:59:01] [INFO] Completed: Postman ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260131_165854.log)
+[2026-01-31 16:59:01] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-01-31 16:59:01] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:01] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-01-31 16:59:03] [INFO] Completed: Putty ExitCode=60008 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260131_165901.log)
+[2026-01-31 16:59:03] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-01-31 16:59:03] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:03] [INFO] Starting Uninstall for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-01-31 16:59:10] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260131_165903.log)
+[2026-01-31 16:59:10] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-01-31 16:59:10] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:10] [INFO] Starting Uninstall for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-01-31 16:59:20] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260131_165910.log)
+[2026-01-31 16:59:20] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-01-31 16:59:20] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:20] [INFO] Starting Uninstall for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-01-31 16:59:39] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260131_165920.log)
+[2026-01-31 16:59:39] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-01-31 16:59:39] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:39] [INFO] Starting Uninstall for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-01-31 16:59:53] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260131_165939.log)
+[2026-01-31 16:59:53] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-01-31 16:59:53] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-01-31 16:59:53] [INFO] Starting Uninstall for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-01-31 17:00:02] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260131_165953.log)
+[2026-01-31 17:00:02] [INFO] Summary: Processed=12 Success=8 Failed=4
+[2026-01-31 17:00:02] [INFO] Detailed results:
+[2026-01-31 17:00:02] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-01-31 17:00:02] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 60001 | Note: True
+[2026-01-31 17:00:02] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] Postman | Exe: True | ExitCode: 60001 | Note: True
+[2026-01-31 17:00:02] [INFO] Putty | Exe: True | ExitCode: 60008 | Note: True
+[2026-01-31 17:00:02] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-01-31 17:00:02] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 09:01:21 ---
+
+[2026-02-02 09:01:22] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 09:01:22] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:01:22] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 09:01:50] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_090122.log)
+[2026-02-02 09:01:50] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 09:01:50] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:01:50] [INFO] Starting Install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 09:01:57] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_090150.log)
+[2026-02-02 09:01:57] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 09:01:57] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:01:57] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 09:02:56] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_090157.log)
+[2026-02-02 09:02:56] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 09:02:56] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:02:56] [INFO] Starting Install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 09:03:11] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_090256.log)
+[2026-02-02 09:03:11] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 09:03:11] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:03:11] [INFO] Starting Install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 09:04:11] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_090311.log)
+[2026-02-02 09:04:11] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 09:04:11] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:04:11] [INFO] Starting Install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 09:04:30] [INFO] Completed: SQL WorkBench ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_090411.log)
+[2026-02-02 09:04:30] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 09:04:30] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:04:30] [INFO] Starting Install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 09:05:02] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_090430.log)
+[2026-02-02 09:05:02] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 09:05:02] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:05:02] [INFO] Starting Install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 09:05:16] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_090502.log)
+[2026-02-02 09:05:16] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 09:05:16] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 09:05:16] [INFO] Starting Install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 09:05:29] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_090516.log)
+[2026-02-02 09:05:29] [INFO] Summary: Processed=9 Success=8 Failed=
+[2026-02-02 09:05:29] [INFO] Detailed results:
+[2026-02-02 09:05:29] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] SQL WorkBench | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-02 09:05:29] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 09:05:29] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 10:17:49 ---
+
+[2026-02-02 10:17:49] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 10:17:49] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:17:49] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 10:18:09] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_101749.log)
+[2026-02-02 10:18:09] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 10:18:09] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:18:09] [INFO] Starting Install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 10:18:15] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_101809.log)
+[2026-02-02 10:18:15] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 10:18:15] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:18:15] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 10:19:07] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_101815.log)
+[2026-02-02 10:19:07] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 10:19:07] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:19:07] [INFO] Starting Install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 10:19:16] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_101907.log)
+[2026-02-02 10:19:16] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 10:19:16] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:19:16] [INFO] Starting Install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 10:20:11] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_101916.log)
+[2026-02-02 10:20:11] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 10:20:11] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:20:11] [INFO] Starting Install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 10:20:28] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_102011.log)
+[2026-02-02 10:20:28] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 10:20:28] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:20:28] [INFO] Starting Install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 10:20:37] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_102028.log)
+[2026-02-02 10:20:37] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 10:20:37] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:20:37] [INFO] Starting Install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 10:20:53] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_102037.log)
+[2026-02-02 10:20:53] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 10:20:53] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:20:53] [INFO] Starting Install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 10:21:06] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_102053.log)
+[2026-02-02 10:21:06] [INFO] Summary: Processed=9 Success=9 Failed=0
+[2026-02-02 10:21:06] [INFO] Detailed results:
+[2026-02-02 10:21:06] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:21:06] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 10:21:41 ---
+
+[2026-02-02 10:21:41] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 10:21:41] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:21:41] [INFO] Starting Uninstall for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 10:21:47] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_102141.log)
+[2026-02-02 10:21:47] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 10:21:47] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:21:47] [INFO] Starting Uninstall for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 10:21:53] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_102147.log)
+[2026-02-02 10:21:53] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 10:21:53] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:21:53] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 10:22:00] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_102153.log)
+[2026-02-02 10:22:00] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 10:22:00] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:22:00] [INFO] Starting Uninstall for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 10:22:12] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_102200.log)
+[2026-02-02 10:22:12] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 10:22:12] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:22:12] [INFO] Starting Uninstall for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 10:22:23] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_102212.log)
+[2026-02-02 10:22:23] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 10:22:23] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:22:23] [INFO] Starting Uninstall for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 10:22:40] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_102223.log)
+[2026-02-02 10:22:40] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 10:22:40] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:22:40] [INFO] Starting Uninstall for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 10:23:15] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_102240.log)
+[2026-02-02 10:23:15] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 10:23:15] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:23:15] [INFO] Starting Uninstall for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 10:23:32] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_102315.log)
+[2026-02-02 10:23:32] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 10:23:32] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:23:32] [INFO] Starting Uninstall for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 10:23:41] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_102332.log)
+[2026-02-02 10:23:41] [INFO] Summary: Processed=9 Success=8 Failed=
+[2026-02-02 10:23:41] [INFO] Detailed results:
+[2026-02-02 10:23:41] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-02 10:23:41] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:23:41] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 10:28:04 ---
+
+[2026-02-02 10:28:04] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 10:28:04] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:28:04] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 10:28:23] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_102804.log)
+[2026-02-02 10:28:23] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 10:28:23] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:28:23] [INFO] Starting Install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 10:28:29] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_102823.log)
+[2026-02-02 10:28:29] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 10:28:29] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:28:29] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 10:29:25] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_102829.log)
+[2026-02-02 10:29:25] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 10:29:25] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:29:25] [INFO] Starting Install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 10:29:39] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_102925.log)
+[2026-02-02 10:29:39] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 10:29:39] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:29:39] [INFO] Starting Install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 10:30:39] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_102939.log)
+[2026-02-02 10:30:39] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 10:30:39] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:30:39] [INFO] Starting Install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 10:30:59] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_103039.log)
+[2026-02-02 10:30:59] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 10:30:59] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:30:59] [INFO] Starting Install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 10:31:31] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_103059.log)
+[2026-02-02 10:31:31] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 10:31:31] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:31:31] [INFO] Starting Install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 10:31:44] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_103131.log)
+[2026-02-02 10:31:44] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 10:31:44] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 10:31:44] [INFO] Starting Install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 10:31:59] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_103144.log)
+[2026-02-02 10:31:59] [INFO] Summary: Processed=9 Success=9 Failed=0
+[2026-02-02 10:31:59] [INFO] Detailed results:
+[2026-02-02 10:31:59] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 10:31:59] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 11:52:19 ---
+
+[2026-02-02 11:52:19] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 11:52:19] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:52:19] [INFO] Starting Uninstall for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 11:52:30] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_115219.log)
+[2026-02-02 11:52:30] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 11:52:30] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:52:30] [INFO] Starting Uninstall for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 11:52:36] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_115230.log)
+[2026-02-02 11:52:36] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 11:52:36] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:52:36] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 11:52:43] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_115236.log)
+[2026-02-02 11:52:43] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 11:52:43] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:52:43] [INFO] Starting Uninstall for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 11:52:56] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_115243.log)
+[2026-02-02 11:52:56] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 11:52:56] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:52:56] [INFO] Starting Uninstall for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 11:53:04] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_115256.log)
+[2026-02-02 11:53:04] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-02 11:53:04] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:53:04] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-02 11:53:11] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260202_115304.log)
+[2026-02-02 11:53:11] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 11:53:11] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:53:11] [INFO] Starting Uninstall for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 11:53:25] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_115311.log)
+[2026-02-02 11:53:25] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 11:53:25] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:53:25] [INFO] Starting Uninstall for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 11:53:56] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_115325.log)
+[2026-02-02 11:53:56] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 11:53:56] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:53:56] [INFO] Starting Uninstall for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 11:54:13] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_115356.log)
+[2026-02-02 11:54:13] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 11:54:13] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 11:54:13] [INFO] Starting Uninstall for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 11:54:25] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_115413.log)
+[2026-02-02 11:54:25] [INFO] Summary: Processed=10 Success=8 Failed=2
+[2026-02-02 11:54:25] [INFO] Detailed results:
+[2026-02-02 11:54:25] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-02 11:54:25] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-02 11:54:25] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 11:54:25] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 17:55:45 ---
+
+[2026-02-02 17:55:45] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 17:55:45] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 17:55:45] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 17:56:02] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_175545.log)
+[2026-02-02 17:56:02] [INFO] Processing package: Notepad++ (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Files)
+[2026-02-02 17:56:02] [INFO] Found PSADT exe for Notepad++: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Invoke-AppDeployToolkit.exe
+[2026-02-02 17:56:02] [INFO] Starting Uninstall for Notepad++ in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++
+[2026-02-02 17:56:17] [INFO] Completed: Notepad++ ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\InstallOutput_20260202_175602.log)
+[2026-02-02 17:56:18] [INFO] Summary: Processed=2 Success=2 Failed=0
+[2026-02-02 17:56:18] [INFO] Detailed results:
+[2026-02-02 17:56:18] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 17:56:18] [INFO] Notepad++ | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 17:58:40 ---
+
+[2026-02-02 17:58:41] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 17:58:41] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 17:58:41] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 17:59:38] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_175841.log)
+[2026-02-02 17:59:38] [INFO] Processing package: Notepad++ (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Files)
+[2026-02-02 17:59:38] [INFO] Found PSADT exe for Notepad++: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Invoke-AppDeployToolkit.exe
+[2026-02-02 17:59:38] [INFO] Starting Install for Notepad++ in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++
+[2026-02-02 17:59:59] [INFO] Completed: Notepad++ ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\InstallOutput_20260202_175938.log)
+[2026-02-02 17:59:59] [INFO] Summary: Processed=2 Success=2 Failed=0
+[2026-02-02 17:59:59] [INFO] Detailed results:
+[2026-02-02 17:59:59] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 17:59:59] [INFO] Notepad++ | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 18:00:10 ---
+
+[2026-02-02 18:00:10] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 18:00:10] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:00:10] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-02 18:00:31] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260202_180010.log)
+[2026-02-02 18:00:31] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-02 18:00:31] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:00:31] [INFO] Starting Install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-02 18:00:38] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260202_180031.log)
+[2026-02-02 18:00:38] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-02 18:00:38] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:00:38] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-02 18:01:30] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260202_180038.log)
+[2026-02-02 18:01:30] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-02 18:01:30] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:01:30] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-02 18:01:37] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260202_180130.log)
+[2026-02-02 18:01:37] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-02 18:01:37] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:01:37] [INFO] Starting Install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-02 18:01:59] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260202_180137.log)
+[2026-02-02 18:01:59] [INFO] Processing package: Notepad++ (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Files)
+[2026-02-02 18:01:59] [INFO] Found PSADT exe for Notepad++: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:01:59] [INFO] Starting Install for Notepad++ in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++
+[2026-02-02 18:02:12] [INFO] Completed: Notepad++ ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\InstallOutput_20260202_180159.log)
+[2026-02-02 18:02:12] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-02 18:02:12] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:02:12] [INFO] Starting Install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-02 18:03:06] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260202_180212.log)
+[2026-02-02 18:03:06] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-02 18:03:06] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:03:06] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-02 18:06:57] [INFO] Completed: SQL Server Dev Standard ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260202_180306.log)
+[2026-02-02 18:06:57] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-02 18:06:57] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:06:57] [INFO] Starting Install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-02 18:07:16] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260202_180657.log)
+[2026-02-02 18:07:16] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-02 18:07:16] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:07:16] [INFO] Starting Install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-02 18:07:49] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260202_180716.log)
+[2026-02-02 18:07:49] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-02 18:07:49] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:07:49] [INFO] Starting Install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-02 18:08:03] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260202_180749.log)
+[2026-02-02 18:08:03] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-02 18:08:03] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-02 18:08:03] [INFO] Starting Install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-02 18:08:18] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260202_180803.log)
+[2026-02-02 18:08:18] [INFO] Summary: Processed=12 Success=12 Failed=0
+[2026-02-02 18:08:18] [INFO] Detailed results:
+[2026-02-02 18:08:18] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] Notepad++ | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-02 18:08:18] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/02/2026 19:20:57 ---
+
+[2026-02-02 19:20:57] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-02 19:20:57] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-02 19:20:57] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+
+--- Run at 02/03/2026 11:07:10 ---
+
+[2026-02-03 11:07:11] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-03 11:07:11] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:07:11] [INFO] Starting Install for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-03 11:07:40] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260203_110711.log)
+[2026-02-03 11:07:40] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-03 11:07:40] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:07:40] [INFO] Starting Install for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-03 11:07:47] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260203_110740.log)
+[2026-02-03 11:07:47] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-03 11:07:47] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:07:47] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-03 11:08:45] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260203_110747.log)
+[2026-02-03 11:08:45] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-03 11:08:45] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:08:45] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-03 11:08:51] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260203_110845.log)
+[2026-02-03 11:08:51] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-03 11:08:51] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:08:51] [INFO] Starting Install for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-03 11:09:02] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260203_110851.log)
+[2026-02-03 11:09:02] [INFO] Processing package: Notepad++ (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Files)
+[2026-02-03 11:09:02] [INFO] Found PSADT exe for Notepad++: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:09:02] [INFO] Starting Install for Notepad++ in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++
+[2026-02-03 11:09:25] [INFO] Completed: Notepad++ ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\InstallOutput_20260203_110902.log)
+[2026-02-03 11:09:25] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-03 11:09:25] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:09:25] [INFO] Starting Install for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-03 11:10:22] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260203_110925.log)
+[2026-02-03 11:10:22] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-03 11:10:22] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:10:22] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-03 11:14:59] [INFO] Completed: SQL Server Dev Standard ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260203_111022.log)
+[2026-02-03 11:14:59] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-03 11:14:59] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:14:59] [INFO] Starting Install for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-03 11:15:10] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260203_111459.log)
+[2026-02-03 11:15:10] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-03 11:15:10] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:15:10] [INFO] Starting Install for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-03 11:15:18] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260203_111510.log)
+[2026-02-03 11:15:18] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-03 11:15:18] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:15:18] [INFO] Starting Install for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-03 11:15:37] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260203_111518.log)
+[2026-02-03 11:15:37] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-03 11:15:37] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-03 11:15:37] [INFO] Starting Install for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-03 11:15:54] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260203_111537.log)
+[2026-02-03 11:15:54] [INFO] Summary: Processed=12 Success=12 Failed=0
+[2026-02-03 11:15:54] [INFO] Detailed results:
+[2026-02-03 11:15:54] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] Notepad++ | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 11:15:54] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/03/2026 16:30:31 ---
+
+[2026-02-03 16:30:31] [INFO] Processing package: DBeaver (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Files)
+[2026-02-03 16:30:31] [INFO] Found PSADT exe for DBeaver: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:30:31] [INFO] Starting Uninstall for DBeaver in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver
+[2026-02-03 16:30:41] [INFO] Completed: DBeaver ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DBeaver\InstallOutput_20260203_163031.log)
+[2026-02-03 16:30:41] [INFO] Processing package: DWGSee (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Files)
+[2026-02-03 16:30:41] [INFO] Found PSADT exe for DWGSee: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:30:41] [INFO] Starting Uninstall for DWGSee in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee
+[2026-02-03 16:30:47] [INFO] Completed: DWGSee ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\DWGSee\InstallOutput_20260203_163041.log)
+[2026-02-03 16:30:47] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-03 16:30:47] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:30:47] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-03 16:30:57] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260203_163047.log)
+[2026-02-03 16:30:57] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-03 16:30:57] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:30:57] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-03 16:31:05] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260203_163057.log)
+[2026-02-03 16:31:05] [INFO] Processing package: MobaXterm (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Files)
+[2026-02-03 16:31:05] [INFO] Found PSADT exe for MobaXterm: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:31:05] [INFO] Starting Uninstall for MobaXterm in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm
+[2026-02-03 16:31:20] [INFO] Completed: MobaXterm ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\MobaXterm\InstallOutput_20260203_163105.log)
+[2026-02-03 16:31:20] [INFO] Processing package: Notepad++ (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Files)
+[2026-02-03 16:31:20] [INFO] Found PSADT exe for Notepad++: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:31:20] [INFO] Starting Uninstall for Notepad++ in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++
+[2026-02-03 16:34:34] [INFO] Completed: Notepad++ ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Notepad++\InstallOutput_20260203_163120.log)
+[2026-02-03 16:34:34] [INFO] Processing package: SQL Developer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Files)
+[2026-02-03 16:34:34] [INFO] Found PSADT exe for SQL Developer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:34:34] [INFO] Starting Uninstall for SQL Developer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer
+[2026-02-03 16:34:44] [INFO] Completed: SQL Developer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Developer\InstallOutput_20260203_163434.log)
+[2026-02-03 16:34:44] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-03 16:34:44] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:34:44] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-03 16:34:51] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260203_163444.log)
+[2026-02-03 16:34:51] [INFO] Processing package: SQL WorkBench (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Files)
+[2026-02-03 16:34:51] [INFO] Found PSADT exe for SQL WorkBench: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:34:51] [INFO] Starting Uninstall for SQL WorkBench in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench
+[2026-02-03 16:35:08] [INFO] Completed: SQL WorkBench ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL WorkBench\InstallOutput_20260203_163451.log)
+[2026-02-03 16:35:08] [INFO] Processing package: SQLSearch (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Files)
+[2026-02-03 16:35:08] [INFO] Found PSADT exe for SQLSearch: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:35:08] [INFO] Starting Uninstall for SQLSearch in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch
+[2026-02-03 16:35:50] [INFO] Completed: SQLSearch ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQLSearch\InstallOutput_20260203_163508.log)
+[2026-02-03 16:35:50] [INFO] Processing package: WinMerge (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Files)
+[2026-02-03 16:35:50] [INFO] Found PSADT exe for WinMerge: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:35:50] [INFO] Starting Uninstall for WinMerge in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge
+[2026-02-03 16:37:40] [INFO] Completed: WinMerge ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinMerge\InstallOutput_20260203_163550.log)
+[2026-02-03 16:37:40] [INFO] Processing package: WinSCP (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Files)
+[2026-02-03 16:37:40] [INFO] Found PSADT exe for WinSCP: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\Invoke-AppDeployToolkit.exe
+[2026-02-03 16:37:40] [INFO] Starting Uninstall for WinSCP in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP
+[2026-02-03 16:37:53] [INFO] Completed: WinSCP ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\WinSCP\InstallOutput_20260203_163740.log)
+[2026-02-03 16:37:53] [INFO] Summary: Processed=12 Success=11 Failed=
+[2026-02-03 16:37:53] [INFO] Detailed results:
+[2026-02-03 16:37:53] [INFO] DBeaver | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] DWGSee | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] MobaXterm | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] Notepad++ | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] SQL Developer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-03 16:37:53] [INFO] SQL WorkBench | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] SQLSearch | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] WinMerge | Exe: True | ExitCode: 0 | Note: True
+[2026-02-03 16:37:53] [INFO] WinSCP | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/04/2026 10:30:15 ---
+
+[2026-02-04 10:30:15] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 10:30:15] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:15] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 10:30:25] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_103015.log)
+[2026-02-04 10:30:25] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 10:30:25] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:25] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 10:30:32] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_103025.log)
+[2026-02-04 10:30:32] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 10:30:32] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:32] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 10:30:39] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_103032.log)
+[2026-02-04 10:30:39] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 10:30:39] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:39] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 10:30:46] [INFO] Completed: Postman ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_103039.log)
+[2026-02-04 10:30:46] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 10:30:46] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:46] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 10:30:49] [INFO] Completed: Putty ExitCode=60008 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_103046.log)
+[2026-02-04 10:30:49] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 10:30:49] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:49] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 10:30:56] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_103049.log)
+[2026-02-04 10:30:56] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 10:30:56] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:30:56] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 10:31:38] [INFO] Completed: Workspaces ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_103056.log)
+[2026-02-04 10:31:38] [INFO] Summary: Processed=7 Success=0 Failed=7
+[2026-02-04 10:31:38] [INFO] Detailed results:
+[2026-02-04 10:31:38] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 10:31:38] [INFO] Github | Exe: True | ExitCode: -1 | Note: True
+[2026-02-04 10:31:38] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 10:31:38] [INFO] Postman | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 10:31:38] [INFO] Putty | Exe: True | ExitCode: 60008 | Note: True
+[2026-02-04 10:31:38] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-04 10:31:38] [INFO] Workspaces | Exe: True | ExitCode: 60001 | Note: True
+
+--- Run at 02/04/2026 10:32:33 ---
+
+[2026-02-04 10:32:33] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 10:32:33] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:32:33] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 10:33:25] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_103233.log)
+[2026-02-04 10:33:25] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 10:33:25] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:33:25] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 10:33:31] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_103325.log)
+[2026-02-04 10:33:31] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 10:33:31] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:33:31] [INFO] Starting Install for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 10:35:02] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_103331.log)
+[2026-02-04 10:35:02] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 10:35:02] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:35:02] [INFO] Starting Install for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 10:35:11] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_103502.log)
+[2026-02-04 10:35:11] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 10:35:11] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:35:11] [INFO] Starting Install for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 10:35:16] [INFO] Completed: Putty ExitCode=60008 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_103511.log)
+[2026-02-04 10:35:16] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 10:35:16] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:35:16] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 10:40:14] [INFO] Completed: SQL Server Dev Standard ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_103516.log)
+[2026-02-04 10:40:14] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 10:40:14] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 10:40:14] [INFO] Starting Install for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 10:41:27] [INFO] Completed: Workspaces ExitCode=1603 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_104014.log)
+[2026-02-04 10:41:27] [INFO] Summary: Processed=7 Success=5 Failed=2
+[2026-02-04 10:41:27] [INFO] Detailed results:
+[2026-02-04 10:41:27] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 10:41:27] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 10:41:27] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 10:41:27] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 10:41:27] [INFO] Putty | Exe: True | ExitCode: 60008 | Note: True
+[2026-02-04 10:41:27] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 10:41:27] [INFO] Workspaces | Exe: True | ExitCode: 1603 | Note: True
+
+--- Run at 02/04/2026 13:38:29 ---
+
+[2026-02-04 13:38:30] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 13:38:30] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:38:30] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 13:38:38] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_133830.log)
+[2026-02-04 13:38:38] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 13:38:38] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:38:38] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 13:38:45] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_133838.log)
+[2026-02-04 13:38:45] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 13:38:45] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:38:45] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 13:38:56] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_133845.log)
+[2026-02-04 13:38:56] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 13:38:56] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:38:56] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 13:39:02] [INFO] Completed: Postman ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_133856.log)
+[2026-02-04 13:39:02] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 13:39:02] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:39:02] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 13:39:04] [INFO] Completed: Putty ExitCode=60008 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_133902.log)
+[2026-02-04 13:39:04] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 13:39:04] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:39:04] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 13:39:09] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_133904.log)
+[2026-02-04 13:39:09] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 13:39:09] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 13:39:09] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 13:39:47] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_133909.log)
+[2026-02-04 13:39:47] [INFO] Summary: Processed=7 Success=4 Failed=3
+[2026-02-04 13:39:47] [INFO] Detailed results:
+[2026-02-04 13:39:47] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 13:39:47] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 13:39:47] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 13:39:47] [INFO] Postman | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 13:39:47] [INFO] Putty | Exe: True | ExitCode: 60008 | Note: True
+[2026-02-04 13:39:47] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-04 13:39:47] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/04/2026 15:14:56 ---
+
+[2026-02-04 15:14:57] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 15:14:57] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:14:57] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 15:15:03] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_151457.log)
+[2026-02-04 15:15:03] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 15:15:03] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:03] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 15:15:09] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_151503.log)
+[2026-02-04 15:15:09] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 15:15:09] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:09] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 15:15:20] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_151509.log)
+[2026-02-04 15:15:20] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 15:15:20] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:20] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 15:15:28] [INFO] Completed: Postman ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_151520.log)
+[2026-02-04 15:15:28] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 15:15:28] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:28] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 15:15:39] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_151528.log)
+[2026-02-04 15:15:39] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 15:15:39] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:39] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 15:15:46] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_151539.log)
+[2026-02-04 15:15:46] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 15:15:46] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 15:15:46] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 15:16:42] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_151546.log)
+[2026-02-04 15:16:42] [INFO] Summary: Processed=7 Success=3 Failed=4
+[2026-02-04 15:16:42] [INFO] Detailed results:
+[2026-02-04 15:16:42] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 15:16:42] [INFO] Github | Exe: True | ExitCode: -1 | Note: True
+[2026-02-04 15:16:42] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 15:16:42] [INFO] Postman | Exe: True | ExitCode: 69002 | Note: True
+[2026-02-04 15:16:42] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 15:16:42] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-04 15:16:42] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/04/2026 16:10:55 ---
+
+[2026-02-04 16:10:55] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 16:10:55] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:10:55] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 16:11:53] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_161055.log)
+[2026-02-04 16:11:53] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 16:11:53] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:11:53] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 16:12:00] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_161153.log)
+[2026-02-04 16:12:00] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 16:12:00] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:12:00] [INFO] Starting Install for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 16:13:17] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_161200.log)
+[2026-02-04 16:13:17] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 16:13:17] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:13:17] [INFO] Starting Install for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 16:13:26] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_161317.log)
+[2026-02-04 16:13:26] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 16:13:26] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:13:26] [INFO] Starting Install for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 16:13:41] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_161326.log)
+[2026-02-04 16:13:41] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 16:13:41] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:13:41] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 16:17:52] [INFO] Completed: SQL Server Dev Standard ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_161341.log)
+[2026-02-04 16:17:52] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 16:17:52] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:17:52] [INFO] Starting Install for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 16:18:58] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_161752.log)
+[2026-02-04 16:18:58] [INFO] Summary: Processed=7 Success=7 Failed=0
+[2026-02-04 16:18:58] [INFO] Detailed results:
+[2026-02-04 16:18:58] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:18:58] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/04/2026 16:19:43 ---
+
+[2026-02-04 16:19:43] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-04 16:19:43] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:19:43] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-04 16:19:51] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260204_161943.log)
+[2026-02-04 16:19:52] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-04 16:19:52] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:19:52] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-04 16:20:00] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260204_161952.log)
+[2026-02-04 16:20:00] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-04 16:20:00] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:20:00] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-04 16:20:07] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260204_162000.log)
+[2026-02-04 16:20:07] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-04 16:20:07] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:20:07] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-04 16:20:15] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260204_162007.log)
+[2026-02-04 16:20:15] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-04 16:20:15] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:20:15] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-04 16:20:27] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260204_162015.log)
+[2026-02-04 16:20:27] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-04 16:20:27] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:20:27] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-04 16:20:33] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260204_162027.log)
+[2026-02-04 16:20:33] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-04 16:20:33] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-04 16:20:33] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-04 16:22:56] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260204_162033.log)
+[2026-02-04 16:22:56] [INFO] Summary: Processed=7 Success=5 Failed=2
+[2026-02-04 16:22:56] [INFO] Detailed results:
+[2026-02-04 16:22:56] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:22:56] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:22:56] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-04 16:22:56] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:22:56] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-04 16:22:56] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-04 16:22:56] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/06/2026 17:35:32 ---
+
+[2026-02-06 17:35:32] [INFO] Processing package: Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Files)
+[2026-02-06 17:35:32] [INFO] Found PSADT exe for Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:35:32] [INFO] Starting Uninstall for Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning
+[2026-02-06 17:39:23] [INFO] Completed: Floor Planning ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\InstallOutput_20260206_173532.log)
+[2026-02-06 17:39:23] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-06 17:39:23] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:39:23] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-06 17:39:30] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260206_173923.log)
+[2026-02-06 17:39:30] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-06 17:39:30] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:39:30] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-06 17:39:39] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260206_173930.log)
+[2026-02-06 17:39:39] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-06 17:39:39] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:39:39] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-06 17:39:46] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260206_173939.log)
+[2026-02-06 17:39:46] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-06 17:39:46] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:39:46] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-06 17:39:53] [INFO] Completed: Postman ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260206_173946.log)
+[2026-02-06 17:39:53] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-06 17:39:53] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:39:53] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-06 17:40:10] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260206_173953.log)
+[2026-02-06 17:40:10] [INFO] Processing package: Snag-It (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Files)
+[2026-02-06 17:40:10] [INFO] Found PSADT exe for Snag-It: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Invoke-AppDeployToolkit.exe
+[2026-02-06 17:40:10] [INFO] Starting Uninstall for Snag-It in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It
+
+--- Run at 02/06/2026 18:44:49 ---
+
+[2026-02-06 18:44:49] [INFO] Processing package: Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Files)
+[2026-02-06 18:44:49] [INFO] Found PSADT exe for Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:44:49] [INFO] Starting Uninstall for Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning
+[2026-02-06 18:47:42] [INFO] Completed: Floor Planning ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\InstallOutput_20260206_184449.log)
+[2026-02-06 18:47:42] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-06 18:47:42] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:47:42] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-06 18:47:50] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260206_184742.log)
+[2026-02-06 18:47:50] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-06 18:47:50] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:47:50] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-06 18:47:57] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260206_184750.log)
+[2026-02-06 18:47:57] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-06 18:47:57] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:47:57] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-06 18:48:05] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260206_184757.log)
+[2026-02-06 18:48:05] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-06 18:48:05] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:48:05] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-06 18:48:15] [INFO] Completed: Postman ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260206_184805.log)
+[2026-02-06 18:48:15] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-06 18:48:15] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:48:15] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-06 18:48:27] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260206_184815.log)
+[2026-02-06 18:48:27] [INFO] Processing package: Snag-It (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Files)
+[2026-02-06 18:48:27] [INFO] Found PSADT exe for Snag-It: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:48:27] [INFO] Starting Uninstall for Snag-It in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It
+[2026-02-06 18:53:37] [INFO] Completed: Snag-It ExitCode=1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\InstallOutput_20260206_184827.log)
+[2026-02-06 18:53:37] [INFO] Processing package: Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Files)
+[2026-02-06 18:53:37] [INFO] Found PSADT exe for Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:53:37] [INFO] Starting Uninstall for Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation
+[2026-02-06 18:54:27] [INFO] Completed: Space Automation ExitCode=1605 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\InstallOutput_20260206_185337.log)
+[2026-02-06 18:54:27] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-06 18:54:27] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:54:27] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-06 18:54:27] [INFO] Completed: SQL Server Dev Standard ExitCode=1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260206_185427.log)
+[2026-02-06 18:54:27] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-06 18:54:27] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-06 18:54:27] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-06 18:55:24] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260206_185427.log)
+[2026-02-06 18:55:24] [INFO] Summary: Processed=10 Success=2 Failed=8
+[2026-02-06 18:55:24] [INFO] Detailed results:
+[2026-02-06 18:55:24] [INFO] Floor Planning | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-06 18:55:24] [INFO] Git for Windows | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-06 18:55:24] [INFO] Github | Exe: True | ExitCode: -1 | Note: True
+[2026-02-06 18:55:24] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-06 18:55:24] [INFO] Postman | Exe: True | ExitCode: 69002 | Note: True
+[2026-02-06 18:55:24] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 18:55:24] [INFO] Snag-It | Exe: True | ExitCode: 1 | Note: True
+[2026-02-06 18:55:24] [INFO] Space Automation | Exe: True | ExitCode: 1605 | Note: True
+[2026-02-06 18:55:24] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 1 | Note: True
+[2026-02-06 18:55:24] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/06/2026 22:00:26 ---
+
+[2026-02-06 22:00:26] [INFO] Processing package: Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Files)
+[2026-02-06 22:00:26] [INFO] Found PSADT exe for Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:00:26] [INFO] Starting Uninstall for Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning
+[2026-02-06 22:02:59] [INFO] Completed: Floor Planning ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\InstallOutput_20260206_220026.log)
+[2026-02-06 22:02:59] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-06 22:02:59] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:02:59] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-06 22:03:05] [INFO] Completed: Git for Windows ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260206_220259.log)
+[2026-02-06 22:03:05] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-06 22:03:05] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:03:05] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-06 22:03:12] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260206_220305.log)
+[2026-02-06 22:03:12] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-06 22:03:12] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:03:12] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-06 22:03:18] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260206_220312.log)
+[2026-02-06 22:03:18] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-06 22:03:18] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:03:18] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-06 22:03:25] [INFO] Completed: Postman ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260206_220318.log)
+[2026-02-06 22:03:25] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-06 22:03:25] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:03:25] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-06 22:03:33] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260206_220325.log)
+[2026-02-06 22:03:33] [INFO] Processing package: Snag-It (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Files)
+[2026-02-06 22:03:33] [INFO] Found PSADT exe for Snag-It: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:03:33] [INFO] Starting Uninstall for Snag-It in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It
+
+--- Run at 02/06/2026 22:09:39 ---
+
+[2026-02-06 22:09:40] [INFO] Processing package: Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Files)
+[2026-02-06 22:09:40] [INFO] Found PSADT exe for Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:09:40] [INFO] Starting Install for Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning
+
+--- Run at 02/06/2026 22:20:48 ---
+
+[2026-02-06 22:20:49] [INFO] Processing package: Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Files)
+[2026-02-06 22:20:49] [INFO] Found PSADT exe for Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:20:49] [INFO] Starting Install for Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Floor Planning
+
+--- Run at 02/06/2026 22:37:14 ---
+
+[2026-02-06 22:37:15] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-06 22:37:15] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:37:15] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-06 22:38:33] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260206_223715.log)
+[2026-02-06 22:38:33] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-06 22:38:33] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:38:33] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-06 22:38:46] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260206_223833.log)
+[2026-02-06 22:38:46] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-06 22:38:46] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:38:46] [INFO] Starting Install for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-06 22:40:02] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260206_223846.log)
+[2026-02-06 22:40:02] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-06 22:40:02] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:40:02] [INFO] Starting Install for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-06 22:40:14] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260206_224002.log)
+[2026-02-06 22:40:14] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-06 22:40:14] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:40:14] [INFO] Starting Install for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-06 22:40:33] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260206_224014.log)
+[2026-02-06 22:40:33] [INFO] Processing package: Snag-It (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Snag-It\Files)
+[2026-02-06 22:40:35] [WARN] Invoke-AppDeployToolkit.exe not found in package: Snag-It
+[2026-02-06 22:40:35] [INFO] Processing package: Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Files)
+[2026-02-06 22:40:35] [INFO] Found PSADT exe for Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:40:35] [INFO] Starting Install for Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation
+[2026-02-06 22:41:53] [INFO] Completed: Space Automation ExitCode=1602 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\InstallOutput_20260206_224035.log)
+[2026-02-06 22:41:53] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-06 22:41:53] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:41:53] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-06 22:41:54] [INFO] Completed: SQL Server Dev Standard ExitCode=1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260206_224153.log)
+[2026-02-06 22:41:54] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-06 22:41:54] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:41:54] [INFO] Starting Install for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-06 22:43:16] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260206_224154.log)
+[2026-02-06 22:43:16] [INFO] Summary: Processed=9 Success=6 Failed=3
+[2026-02-06 22:43:17] [INFO] Detailed results:
+[2026-02-06 22:43:17] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:43:17] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:43:17] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:43:17] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:43:17] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:43:17] [INFO] Snag-It | Exe: True | ExitCode:  | Note: True
+[2026-02-06 22:43:17] [INFO] Space Automation | Exe: True | ExitCode: 1602 | Note: True
+[2026-02-06 22:43:17] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 1 | Note: True
+[2026-02-06 22:43:17] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/06/2026 22:44:10 ---
+
+[2026-02-06 22:44:10] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-06 22:44:10] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:44:10] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-06 22:44:22] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260206_224410.log)
+[2026-02-06 22:44:22] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-06 22:44:22] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:44:22] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-06 22:44:33] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260206_224422.log)
+[2026-02-06 22:44:33] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-06 22:44:33] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:44:33] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-06 22:44:47] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260206_224433.log)
+[2026-02-06 22:44:47] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-06 22:44:47] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:44:47] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-06 22:44:56] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260206_224447.log)
+[2026-02-06 22:44:56] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-06 22:44:56] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:44:56] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-06 22:45:11] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260206_224456.log)
+[2026-02-06 22:45:11] [INFO] Processing package: Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Files)
+[2026-02-06 22:45:11] [INFO] Found PSADT exe for Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:45:11] [INFO] Starting Uninstall for Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation
+[2026-02-06 22:45:54] [INFO] Completed: Space Automation ExitCode=1605 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Space Automation\InstallOutput_20260206_224511.log)
+[2026-02-06 22:45:54] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-06 22:45:54] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:45:54] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-06 22:45:55] [INFO] Completed: SQL Server Dev Standard ExitCode=1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260206_224554.log)
+[2026-02-06 22:45:55] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-06 22:45:55] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-06 22:45:55] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-06 22:47:51] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260206_224555.log)
+[2026-02-06 22:47:51] [INFO] Summary: Processed=8 Success=6 Failed=2
+[2026-02-06 22:47:51] [INFO] Detailed results:
+[2026-02-06 22:47:51] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:47:51] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:47:51] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:47:51] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:47:51] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-06 22:47:51] [INFO] Space Automation | Exe: True | ExitCode: 1605 | Note: True
+[2026-02-06 22:47:51] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 1 | Note: True
+[2026-02-06 22:47:51] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/09/2026 15:11:27 ---
+
+[2026-02-09 15:11:27] [INFO] Processing package: Blue Yonder Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Files)
+[2026-02-09 15:11:27] [INFO] Found PSADT exe for Blue Yonder Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:11:27] [INFO] Starting Install for Blue Yonder Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning
+[2026-02-09 15:14:01] [INFO] Completed: Blue Yonder Floor Planning ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\InstallOutput_20260209_151127.log)
+[2026-02-09 15:14:01] [INFO] Processing package: Blue Yonder PDF Writer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Files)
+[2026-02-09 15:14:01] [INFO] Found PSADT exe for Blue Yonder PDF Writer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:14:01] [INFO] Starting Install for Blue Yonder PDF Writer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer
+[2026-02-09 15:14:38] [INFO] Completed: Blue Yonder PDF Writer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\InstallOutput_20260209_151401.log)
+[2026-02-09 15:14:38] [INFO] Processing package: Blue Yonder Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Files)
+[2026-02-09 15:14:38] [INFO] Found PSADT exe for Blue Yonder Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:14:38] [INFO] Starting Install for Blue Yonder Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation
+[2026-02-09 15:15:02] [INFO] Completed: Blue Yonder Space Automation ExitCode=1602 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\InstallOutput_20260209_151438.log)
+[2026-02-09 15:15:02] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-09 15:15:02] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:15:02] [INFO] Starting Install for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-09 15:16:04] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260209_151502.log)
+[2026-02-09 15:16:04] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-09 15:16:04] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:16:04] [INFO] Starting Install for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-09 15:16:12] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260209_151604.log)
+[2026-02-09 15:16:12] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-09 15:16:12] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:16:12] [INFO] Starting Install for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-09 15:17:26] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260209_151612.log)
+[2026-02-09 15:17:26] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-09 15:17:26] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:17:26] [INFO] Starting Install for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-09 15:17:39] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260209_151726.log)
+[2026-02-09 15:17:39] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-09 15:17:39] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:17:39] [INFO] Starting Install for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-09 15:17:54] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260209_151739.log)
+[2026-02-09 15:17:54] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-09 15:17:54] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:17:54] [INFO] Starting Install for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-09 15:18:26] [INFO] Completed: SQL Server Dev Standard ExitCode=-2061893626 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260209_151754.log)
+[2026-02-09 15:18:26] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-09 15:18:26] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-09 15:18:26] [INFO] Starting Install for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-09 15:19:28] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260209_151826.log)
+[2026-02-09 15:19:28] [INFO] Summary: Processed=10 Success=8 Failed=2
+[2026-02-09 15:19:28] [INFO] Detailed results:
+[2026-02-09 15:19:28] [INFO] Blue Yonder Floor Planning | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Blue Yonder PDF Writer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Blue Yonder Space Automation | Exe: True | ExitCode: 1602 | Note: True
+[2026-02-09 15:19:28] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 15:19:28] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: -2061893626 | Note: True
+[2026-02-09 15:19:28] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/09/2026 17:40:47 ---
+
+[2026-02-09 17:40:48] [INFO] Processing package: Blue Yonder Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Files)
+[2026-02-09 17:40:48] [INFO] Found PSADT exe for Blue Yonder Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:40:48] [INFO] Starting Uninstall for Blue Yonder Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning
+[2026-02-09 17:45:05] [INFO] Completed: Blue Yonder Floor Planning ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\InstallOutput_20260209_174048.log)
+[2026-02-09 17:45:06] [INFO] Processing package: Blue Yonder PDF Writer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Files)
+[2026-02-09 17:45:06] [INFO] Found PSADT exe for Blue Yonder PDF Writer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:45:06] [INFO] Starting Uninstall for Blue Yonder PDF Writer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer
+[2026-02-09 17:46:05] [INFO] Completed: Blue Yonder PDF Writer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\InstallOutput_20260209_174506.log)
+[2026-02-09 17:46:05] [INFO] Processing package: Blue Yonder Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Files)
+[2026-02-09 17:46:05] [INFO] Found PSADT exe for Blue Yonder Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:05] [INFO] Starting Uninstall for Blue Yonder Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation
+[2026-02-09 17:46:12] [INFO] Completed: Blue Yonder Space Automation ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\InstallOutput_20260209_174605.log)
+[2026-02-09 17:46:12] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-09 17:46:12] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:12] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-09 17:46:23] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260209_174612.log)
+[2026-02-09 17:46:23] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-09 17:46:23] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:23] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-09 17:46:31] [INFO] Completed: Github ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260209_174623.log)
+[2026-02-09 17:46:31] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-09 17:46:31] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:31] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-09 17:46:39] [INFO] Completed: Jetbrains Ultimate ExitCode=60001 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260209_174631.log)
+[2026-02-09 17:46:39] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-09 17:46:39] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:39] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-09 17:46:47] [INFO] Completed: Postman ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260209_174639.log)
+[2026-02-09 17:46:47] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-09 17:46:47] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:46:47] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-09 17:47:02] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260209_174647.log)
+[2026-02-09 17:47:02] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-09 17:47:02] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:47:02] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-09 17:47:10] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260209_174702.log)
+[2026-02-09 17:47:10] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-09 17:47:10] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-09 17:47:10] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-09 17:50:26] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260209_174710.log)
+[2026-02-09 17:50:26] [INFO] Summary: Processed=10 Success=7 Failed=3
+[2026-02-09 17:50:26] [INFO] Detailed results:
+[2026-02-09 17:50:26] [INFO] Blue Yonder Floor Planning | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] Blue Yonder PDF Writer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] Blue Yonder Space Automation | Exe: True | ExitCode: 69002 | Note: True
+[2026-02-09 17:50:26] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] Github | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 60001 | Note: True
+[2026-02-09 17:50:26] [INFO] Postman | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-09 17:50:26] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-09 17:50:26] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True
+
+--- Run at 02/11/2026 09:29:33 ---
+
+[2026-02-11 09:29:34] [INFO] Processing package: Blue Yonder Floor Planning (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Files)
+[2026-02-11 09:29:34] [INFO] Found PSADT exe for Blue Yonder Floor Planning: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:29:34] [INFO] Starting Uninstall for Blue Yonder Floor Planning in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning
+[2026-02-11 09:32:13] [INFO] Completed: Blue Yonder Floor Planning ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Floor Planning\InstallOutput_20260211_092934.log)
+[2026-02-11 09:32:13] [INFO] Processing package: Blue Yonder PDF Writer (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Files)
+[2026-02-11 09:32:13] [INFO] Found PSADT exe for Blue Yonder PDF Writer: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:32:13] [INFO] Starting Uninstall for Blue Yonder PDF Writer in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer
+[2026-02-11 09:32:33] [INFO] Completed: Blue Yonder PDF Writer ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder PDF Writer\InstallOutput_20260211_093213.log)
+[2026-02-11 09:32:33] [INFO] Processing package: Blue Yonder Space Automation (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Files)
+[2026-02-11 09:32:33] [INFO] Found PSADT exe for Blue Yonder Space Automation: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:32:33] [INFO] Starting Uninstall for Blue Yonder Space Automation in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation
+[2026-02-11 09:32:40] [INFO] Completed: Blue Yonder Space Automation ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Blue Yonder Space Automation\InstallOutput_20260211_093233.log)
+[2026-02-11 09:32:40] [INFO] Processing package: Git for Windows (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Files)
+[2026-02-11 09:32:40] [INFO] Found PSADT exe for Git for Windows: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:32:40] [INFO] Starting Uninstall for Git for Windows in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows
+[2026-02-11 09:32:54] [INFO] Completed: Git for Windows ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Git for Windows\InstallOutput_20260211_093240.log)
+[2026-02-11 09:32:54] [INFO] Processing package: Github (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Files)
+[2026-02-11 09:32:54] [INFO] Found PSADT exe for Github: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:32:54] [INFO] Starting Uninstall for Github in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github
+[2026-02-11 09:33:05] [INFO] Completed: Github ExitCode=-1 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Github\InstallOutput_20260211_093254.log)
+[2026-02-11 09:33:05] [INFO] Processing package: Jetbrains Ultimate (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Files)
+[2026-02-11 09:33:05] [INFO] Found PSADT exe for Jetbrains Ultimate: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:33:05] [INFO] Starting Uninstall for Jetbrains Ultimate in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate
+[2026-02-11 09:33:54] [INFO] Completed: Jetbrains Ultimate ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Jetbrains Ultimate\InstallOutput_20260211_093305.log)
+[2026-02-11 09:33:54] [INFO] Processing package: Postman (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Files)
+[2026-02-11 09:33:54] [INFO] Found PSADT exe for Postman: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:33:54] [INFO] Starting Uninstall for Postman in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman
+[2026-02-11 09:34:02] [INFO] Completed: Postman ExitCode=69002 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Postman\InstallOutput_20260211_093354.log)
+[2026-02-11 09:34:02] [INFO] Processing package: Putty (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Files)
+[2026-02-11 09:34:02] [INFO] Found PSADT exe for Putty: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:34:02] [INFO] Starting Uninstall for Putty in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty
+[2026-02-11 09:34:24] [INFO] Completed: Putty ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Putty\InstallOutput_20260211_093402.log)
+[2026-02-11 09:34:24] [INFO] Processing package: SQL Server Dev Standard (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Files)
+[2026-02-11 09:34:24] [INFO] Found PSADT exe for SQL Server Dev Standard: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:34:24] [INFO] Starting Uninstall for SQL Server Dev Standard in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard
+[2026-02-11 09:34:34] [INFO] Completed: SQL Server Dev Standard ExitCode=69003 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\SQL Server Dev Standard\InstallOutput_20260211_093424.log)
+[2026-02-11 09:34:34] [INFO] Processing package: Workspaces (Files at: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Files)
+[2026-02-11 09:34:34] [INFO] Found PSADT exe for Workspaces: C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\Invoke-AppDeployToolkit.exe
+[2026-02-11 09:34:34] [INFO] Starting Uninstall for Workspaces in C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces
+[2026-02-11 09:38:31] [INFO] Completed: Workspaces ExitCode=0 (output saved to C:\Users\TylerCox\OneDrive - Highspring\Packaging\!Ready\Workspaces\InstallOutput_20260211_093434.log)
+[2026-02-11 09:38:31] [INFO] Summary: Processed=10 Success=6 Failed=4
+[2026-02-11 09:38:31] [INFO] Detailed results:
+[2026-02-11 09:38:31] [INFO] Blue Yonder Floor Planning | Exe: True | ExitCode: 0 | Note: True
+[2026-02-11 09:38:31] [INFO] Blue Yonder PDF Writer | Exe: True | ExitCode: 0 | Note: True
+[2026-02-11 09:38:31] [INFO] Blue Yonder Space Automation | Exe: True | ExitCode: 69002 | Note: True
+[2026-02-11 09:38:31] [INFO] Git for Windows | Exe: True | ExitCode: 0 | Note: True
+[2026-02-11 09:38:31] [INFO] Github | Exe: True | ExitCode: -1 | Note: True
+[2026-02-11 09:38:31] [INFO] Jetbrains Ultimate | Exe: True | ExitCode: 0 | Note: True
+[2026-02-11 09:38:31] [INFO] Postman | Exe: True | ExitCode: 69002 | Note: True
+[2026-02-11 09:38:31] [INFO] Putty | Exe: True | ExitCode: 0 | Note: True
+[2026-02-11 09:38:31] [INFO] SQL Server Dev Standard | Exe: True | ExitCode: 69003 | Note: True
+[2026-02-11 09:38:31] [INFO] Workspaces | Exe: True | ExitCode: 0 | Note: True

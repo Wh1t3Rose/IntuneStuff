@@ -24,8 +24,8 @@
 .PARAMETER DryRun
   If specified, the script will only show what it would do without running the packer.
 
-.EXAMPLE
-  .\Create-IntunePackages.ps1 -DryRun
+#.EXAMPLE
+#  .\Create-IntunePackages.ps1 -DryRun
 #>
 
 param(
@@ -44,6 +44,9 @@ function Write-Log {
     Write-Output $line
     Add-Content -Path $LogFile -Value $line
 }
+
+# Load package manifest/answers if available
+# (Manifest loading removed — script is non-interactive by default)
 
 # Prepare log
 $LogFile = Join-Path -Path (Split-Path -Parent $MyInvocation.MyCommand.Definition) -ChildPath 'Create-IntunePackages.log'
@@ -65,6 +68,21 @@ if (-not (Test-Path -Path $PackagesFolder)) {
 }
 
 # Prepare upload folder inside Packages for processed files
+$logCleanupCount = 0
+$packageDirs = Get-ChildItem -Path $ReadyFolder -Directory -ErrorAction SilentlyContinue
+foreach ($pkg in $packageDirs) {
+  $logFiles = Get-ChildItem -Path $pkg.FullName -Filter 'InstallOutput*.log' -File -ErrorAction SilentlyContinue
+  foreach ($log in $logFiles) {
+    try {
+      Remove-Item -Path $log.FullName -Force -ErrorAction Stop
+      Write-Log "Deleted log file: $($log.FullName)" 'INFO'
+      $logCleanupCount++
+    } catch {
+      Write-Log "Failed to delete log file: $($log.FullName) - $($_.Exception.Message)" 'WARN'
+    }
+  }
+}
+if ($logCleanupCount -gt 0) { Write-Log "Deleted $logCleanupCount InstallOutput*.log files from !Ready packages." 'INFO' }
 $UploadFolder = Join-Path -Path $PackagesFolder -ChildPath '!upload'
 if (-not (Test-Path -Path $UploadFolder)) {
   Write-Log "Upload folder does not exist, creating: '$UploadFolder'" 'INFO'
@@ -89,50 +107,63 @@ foreach ($filesDir in $filesDirs) {
 
     Write-Log "Found package candidate: $packageName (Files at: $($filesDir.FullName))"
 
-    # Find a setup file matching the patterns (search inside Files and subfolders)
-    $setupFile = $null
-    foreach ($pat in $SetupPattern) {
-        $found = Get-ChildItem -Path $filesDir.FullName -Recurse -Include $pat -File -ErrorAction SilentlyContinue | Sort-Object -Property FullName
-        if ($found -and $found.Count -gt 0) { $setupFile = $found[0]; break }
+    # (Non-interactive manifest loading removed; script runs non-interactively by default)
+
+
+    # Use Invoke-AppDeployToolkit.exe in the app root as the setup file, and app root as source
+    $appRoot = Split-Path -Parent $filesDir.FullName
+    $invokeAppToolkitExePath = Join-Path -Path $appRoot -ChildPath 'Invoke-AppDeployToolkit.exe'
+    if (-not (Test-Path -Path $invokeAppToolkitExePath)) {
+      Write-Log "Invoke-AppDeployToolkit.exe not found in $appRoot; skipping" 'WARN'
+      continue
     }
+    $sourceFolder = $appRoot
+    $setupPath = $invokeAppToolkitExePath
 
-    if (-not $setupFile) {
-        Write-Log "No setup file (*.exe or *.msi) found in $($filesDir.FullName); skipping" 'WARN'
-        continue
-    }
 
-    $sourceFolder = $filesDir.FullName
-    $setupPath = $setupFile.FullName
-
-    # Ensure unique output filename (check Upload folder)
-    $outputName = "$packageName.intunewin"
+    # Ensure unique output filename per app (use app root folder name and setup file name)
+    $baseName = $packageName
+    $outputName = "$baseName.intunewin"
     $outputPath = Join-Path -Path $UploadFolder -ChildPath $outputName
     $counter = 1
     while (Test-Path -Path $outputPath) {
-        $outputName = "${packageName}_$counter.intunewin"
-        $outputPath = Join-Path -Path $UploadFolder -ChildPath $outputName
-        $counter++
+      $outputName = "${baseName}_$counter.intunewin"
+      $outputPath = Join-Path -Path $UploadFolder -ChildPath $outputName
+      $counter++
     }
+    # Add the -o argument to use the unique output path
+    # Add per-app log entry for output file
+    Write-Log "Output file for $($packageName): $($outputPath)"
 
-    Write-Log "Packaging: $packageName -> $outputPath using setup $($setupFile.Name)"
+
+    Write-Log "Packaging: $packageName -> $outputPath using setup Invoke-AppDeployToolkit.exe"
 
     if ($DryRun) { Write-Log "Dry-run: would run IntuneWinAppUtil.exe -c '$sourceFolder' -s '$setupPath' -o '$UploadFolder'"; continue }
 
-    try {
-        $args = @('-c', $sourceFolder, '-s', $setupPath, '-o', $UploadFolder, '-q')
-        Write-Log "Running: $IntuneWinAppUtilPath $($args -join ' ')"
-        $procOutput = & $IntuneWinAppUtilPath @args 2>&1
-        $exit = $LASTEXITCODE
-        if ($procOutput) { $procOutput | ForEach-Object { Write-Log "OUT: $_" } }
+    # Proceeding with packaging (no interactive prompts)
 
-        if ($exit -eq 0) {
-            Write-Log "Successfully created package(s) in: $UploadFolder"
-        } else {
-            Write-Log "IntuneWinAppUtil.exe exited with code $exit" 'ERROR'
-        }
+    try {
+      $args = @('-c', $sourceFolder, '-s', $setupPath, '-o', $UploadFolder, '-q')
+      Write-Log "Running: $IntuneWinAppUtilPath $($args -join ' ')"
+      $procOutput = & $IntuneWinAppUtilPath @args 2>&1
+      $exit = $LASTEXITCODE
+      if ($procOutput) { $procOutput | ForEach-Object { Write-Log "OUT: $_" } }
+
+      # Move the generated .intunewin file to the desired output path in !upload
+      $generatedFile = Join-Path -Path $UploadFolder -ChildPath (Split-Path -Leaf $setupPath -Resolve).Replace('.exe','.intunewin')
+      if (Test-Path -Path $generatedFile) {
+        Move-Item -Path $generatedFile -Destination $outputPath -Force
+        Write-Log "Moved generated file to: $outputPath"
+      }
+
+      if ($exit -eq 0) {
+        Write-Log "Successfully created package: $outputPath"
+      } else {
+        Write-Log "IntuneWinAppUtil.exe exited with code $exit" 'ERROR'
+      }
     }
     catch {
-        Write-Log "Exception while running packer: $($_.Exception.Message)" 'ERROR'
+      Write-Log "Exception while running packer: $($_.Exception.Message)" 'ERROR'
     }
 }
 
