@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\170\Setup Bootstrap\SQL2025\setup.exe" /Action=Uninstall /FEATURES=SQL,RS,AS,IS /INSTANCENAME=MSSQLSERVER /QUIET /IACCEPTSQLSERVERLICENSETERMS

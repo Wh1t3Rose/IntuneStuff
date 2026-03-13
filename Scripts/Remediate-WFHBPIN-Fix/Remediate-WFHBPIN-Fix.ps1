@@ -1,0 +1,1 @@
+﻿New-Item -Path "HKLM:\SOFTWARE\Microsoft\Policies\PassportForWork\120aeae9-286f-438a-bbf3-de3ab96fcf5d\S-1-12-1-1662966275-1151250520-3510261634-644443005" -Name "Policies" -Force
